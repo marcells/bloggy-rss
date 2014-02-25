@@ -1,0 +1,28 @@
+{
+    "name": "bloggy-rss",
+    "description": "RSS plugin for bloggy, a small and lightweight markdown blog engine.",
+    "version": "0.0.1",
+    "author": "Marcell Spies <marcells@gmx.de>",
+    "contributors": [
+        {
+            "name": "Marcell Spies",
+            "email": "marcells@gmx.de"
+        }
+    ],
+    "dependencies": {
+        "rss": "~0.3.2"
+    },
+    "keywords": [
+        "blog",
+        "markdown",
+        "engine",
+        "small",
+        "lightweight",
+        "rss"
+    ],
+    "repository": "git://github.com/marcells/bloggy-rss",
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "license": "MIT"
+}
