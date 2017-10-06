@@ -10,7 +10,7 @@
         }
     ],
     "dependencies": {
-        "rss": "~0.3.2"
+        "rss": "~1.2.2"
     },
     "keywords": [
         "blog",
